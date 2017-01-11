@@ -1,0 +1,15 @@
+{
+  "name": "Trumphouse",
+  "version": "0.1.1",
+  "description": "Breakout clone",
+  "scripts": {
+
+  },
+  "dependencies": {
+    "express": "latest",
+    "path": "latest",
+    "serve-favicon": "latest",
+    "cookie-parser": "latest",
+    "body-parser": "latest"
+  }
+}

@@ -1,0 +1,11 @@
+#game {
+	position: relative;
+	width: 100%;
+}
+#arena {
+	position: absolute;
+	width:968px;
+	height: 400px;
+	background-color: red;
+
+}
